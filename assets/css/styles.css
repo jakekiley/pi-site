@@ -12,8 +12,8 @@ body {
     
 }
 
-h1 {  font-size: 2rem;  }
-p { font-size: 1.05rem; } 
+h1 {  font-size: 1.75rem;  }
+p { font-size: 1.24rem; } 
 
 
 .header { grid-area: header; }
